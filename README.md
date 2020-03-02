@@ -1,4 +1,4 @@
-# 7 Data Mining and analysis of Ovarain Caner Claims Data
+# 7. Data Mining and analysis of Ovarain Caner Claims Data
 *02/2020*
 
 ### Objects:  
